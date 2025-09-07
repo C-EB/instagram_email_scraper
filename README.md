@@ -63,7 +63,8 @@ Create a file named `.env` in the root directory of the project. This file will 
 Add the following lines to your `.env` file:
 ```env
 INSTAGRAM_USERNAME="your_instagram_username"
-INSTAGRAM_PASSWORD="your_instagram_password"```
+INSTAGRAM_PASSWORD="your_instagram_password"
+```
 
 ## Usage Examples
 
